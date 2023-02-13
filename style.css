@@ -1,0 +1,19 @@
+.scoreBorder {
+    border: 1px solid red;
+}
+
+#userInput { 
+    outline: none;
+}
+
+#prompt {
+    color: red;
+}
+
+.promptHidden {
+    display: none;
+}
+
+.promptVisible {
+    display: visible;
+}
